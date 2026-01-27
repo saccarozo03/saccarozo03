@@ -1,33 +1,23 @@
-# 👋 Hi, I'm @saccarozo03
-### Embedded Systems • Embedded Linux • Edge AI
+<h1 align="center">Hi 👋 I'm Duc Nguyen</h1>
+<h3 align="center">Embedded Linux • Edge AI • Computer Vision</h3>
 
-🎓 Mechatronics Engineering student  
-🛠 Focused on building reliable embedded Linux systems on SBC platforms.
-
----
-
-## 🔧 What I Do
-- Embedded Linux (boot process, runtime, systemd services)
-- RockPi & Raspberry Pi (headless systems)
-- Camera systems & edge computer vision
-- Lightweight backend APIs for embedded devices
+<p align="center">
+  <a href="mailto:saccarozo04@gmail.com">📫 Email</a> •
+  <a href="https://github.com/saccarozo03">💻 GitHub</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
-- **Languages**: Python, C/C++
-- **Platforms**: RockPi 4, Raspberry Pi 4/5
-- **Background**: ESP32, ESP8266, electronics & embedded fundamentals
+### ⚙️ Focus
+- Embedded Linux systems on SBCs (RockPi, Raspberry Pi)
+- Edge Computer Vision (YOLO, OCR, OpenCV)
+- Lightweight backend APIs for devices (FastAPI)
 
 ---
 
-## 📫 Contact
-- **Email**: saccarozo04@gmail.com
+### 🧰 Tech
+**Python • C/C++ • Linux • systemd • Raspberry Pi • RockPi • ESP32**
 
 ---
 
-⭐ Interested in embedded Linux or edge AI? Let’s connect.
-
-<!--
-saccarozo03/saccarozo03 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
+⭐ Always interested in building reliable edge AI systems.
