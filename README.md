@@ -57,9 +57,19 @@ My main interests include:
 ---
 
 ## ⏱ Auto Updates
-Last Updated: <!--LAST_UPDATED-->2026-01-01<!--/LAST_UPDATED-->
+Last Updated: P26-02-02<!--/LAST_UPDATED-->
 
 ## 🆕 Recent Repositories
 <!--RECENT_REPOS_START-->
-(Updating...)
+- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
+  _Python • ★ 0_
+- **[camera_server](https://github.com/saccarozo03/camera_server)** —   
+  _Python • ★ 0_
+- **[latex](https://github.com/saccarozo03/latex)** —   
+  _ • ★ 0_
+- **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
+  _Python • ★ 0_
+- **[my-cv](https://github.com/saccarozo03/my-cv)** —   
+  _HTML • ★ 0_
+
 <!--RECENT_REPOS_END-->
