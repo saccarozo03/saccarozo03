@@ -1,92 +1,56 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/mast.png" alt="MastHead">
-</p>
-
-<h1 align="center">
-  Hello there! 👋🏻 I am Duc Nguyen!
-  <img src="https://i.imgur.com/veZrcC7.gif" alt="Wave" width="50">
-</h1>
+<h1 align="center">Hi 👋 I'm Duc Nguyen</h1>
+<h3 align="center">Embedded Linux • Edge AI • Computer Vision</h3>
 
 <p align="center">
-  Embedded Linux • Edge AI • Computer Vision <br>
-  Building real-time vision systems on resource-constrained devices.
-</p>
-
----
-
-<h2>🚀 About Me</h2>
-
-<p>
-I am Duc Nguyen 🙋🏻‍♂️, an Embedded Linux and Computer Vision engineer passionate about deploying deep learning pipelines on edge platforms such as Raspberry Pi and RockPi.  
-My main interests include real-time camera systems, OCR/ALPR applications, and embedded AI optimization for industrial use cases.  
-Currently, I am working on computer vision projects involving object detection, text recognition, and edge deployment.
-</p>
-
----
-
-<h2>🤝🏻 Connect with Me</h2>
-
-<p>
   <a href="mailto:saccarozo04@gmail.com">
-    <img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/saccarozo03">
-    <img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BB%A9c-nguy%E1%BB%85n-133104227/">
-    <img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2>⚙️ Core Focus</h2>
+## 🚀 About Me
+I am an Embedded Linux and Computer Vision engineer focused on deploying AI-powered vision systems on edge devices such as **Raspberry Pi** and **RockPi**.
 
-<ul>
-  <li>Embedded Linux system development on SBC platforms (RockPi, Raspberry Pi)</li>
-  <li>Edge AI deployment for Computer Vision (YOLO, OCR, PaddleOCR)</li>
-  <li>Real-time camera pipelines with OpenCV + event-triggered recording</li>
-  <li>Lightweight backend APIs for embedded devices (FastAPI, REST)</li>
-  <li>Industrial applications: inspection, monitoring, and ALPR systems</li>
-</ul>
-
----
-
-<h2>🧰 Tech Stack</h2>
-
-<p>
-  <b>Languages:</b> Python • C/C++ <br>
-  <b>AI/CV:</b> YOLO • OCR • OpenCV • PyTorch • PaddleOCR <br>
-  <b>Embedded:</b> Raspberry Pi • RockPi • ESP32 <br>
-  <b>System:</b> Linux • systemd • Networking • Git
-</p>
+My main interests include:
+- Real-time camera pipelines  
+- Object detection (YOLO)  
+- OCR / ALPR systems  
+- Embedded AI optimization  
 
 ---
 
-<h2>📊 GitHub Statistics</h2>
+## ⚙️ Core Focus
+- Embedded Linux system development on SBC platforms  
+- Edge AI deployment for Computer Vision applications  
+- Real-time OpenCV capture + event-triggered recording  
+- Lightweight backend APIs (FastAPI, REST)  
+- Industrial inspection and monitoring use cases  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python • C/C++  
+**AI/CV:** YOLO • PaddleOCR • OpenCV • PyTorch  
+**Embedded:** Raspberry Pi • RockPi • ESP32  
+**System:** Linux • systemd • Networking • Git  
+
+\
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saccarozo03&show_icons=true" alt="Duc GitHub Statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saccarozo03" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=saccarozo03&show_icons=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saccarozo03" height="150"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-</p>
-
-<hr>
-
-<p align="center">
-  ⭐ Always interested in building reliable Embedded AI & Computer Vision systems.
-</p>
-
-<p align="center">
-  <a href="https://github.com/saccarozo03">saccarozo03</a> • Last Updated: 2026
-</p>
+⭐ Always interested in building reliable **Embedded AI & Computer Vision** systems.
