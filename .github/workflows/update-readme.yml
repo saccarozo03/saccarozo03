@@ -33,14 +33,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/update_readme.py
+          python "scripts/update_readme.py"
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add README.md
+          git add "README.md"
           
           # Kiểm tra xem có thay đổi không trước khi commit
           if git diff --staged --quiet; then
@@ -51,5 +51,5 @@ jobs:
           git commit -m "chore: auto-update README"
           
           # Sử dụng cơ chế retry nếu bị xung đột (conflict)
-          git pull --rebase origin main
-          git push origin main
+          git pull --rebase origin "main"
+          git push origin "main"
