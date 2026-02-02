@@ -2,7 +2,7 @@ name: Update README (Auto)
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # chạy mỗi ngày (08:00 sáng VN)
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -45,5 +47,5 @@ jobs:
           git add README.md
           git commit -m "chore: auto-update README"
 
-          git pull --rebase
-          git push
+          git pull --rebase origin main
+          git push origin main
