@@ -14,6 +14,9 @@ LAST_UPDATED_END = "<!--/LAST_UPDATED-->"
 RECENT_START = "<!--RECENT_REPOS_START-->"
 RECENT_END = "<!--RECENT_REPOS_END-->"
 
+QUOTE_START = "<!--DAILY_QUOTE_START-->"
+QUOTE_END = "<!--DAILY_QUOTE_END-->"
+
 def replace_between(text: str, start: str, end: str, new_content: str) -> str:
     pattern = re.compile(rf"({re.escape(start)})(.*?)(\s*{re.escape(end)})", re.DOTALL)
     return pattern.sub(rf"\1{new_content}\3", text)
@@ -46,17 +49,32 @@ def build_recent_repos_block(repos):
 
     return "\n" + "\n".join(lines) + "\n"
 
+def fetch_daily_quote():
+    url = "https://api.quotable.io/random"
+    r = requests.get(url, timeout=10)
+    r.raise_for_status()
+    data = r.json()
+    return f"“{data['content']}” — *{data['author']}*"
+
 def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme = f.read()
 
+    # Update date
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     readme = replace_between(readme, LAST_UPDATED_START, LAST_UPDATED_END, today)
 
+    # Update recent repos
     repos = fetch_recent_repos(USERNAME, RECENT_REPOS_LIMIT)
-    block = build_recent_repos_block(repos)
-    readme = replace_between(readme, RECENT_START, RECENT_END, block)
+    recent_block = build_recent_repos_block(repos)
+    readme = replace_between(readme, RECENT_START, RECENT_END, recent_block)
 
+    # Update daily quote
+    quote = fetch_daily_quote()
+    quote_block = "\n" + quote + "\n"
+    readme = replace_between(readme, QUOTE_START, QUOTE_END, quote_block)
+
+    # Save README
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme)
 
