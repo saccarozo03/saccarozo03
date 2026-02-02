@@ -14,6 +14,12 @@
 </p>
 
 ---
+---
+
+## 💡 Daily Quote
+<!--DAILY_QUOTE_START-->
+(Updating...)
+<!--DAILY_QUOTE_END-->
 
 ## 🚀 About Me
 I am an Embedded Linux and Computer Vision engineer focused on deploying AI-powered vision systems on edge devices such as **Raspberry Pi** and **RockPi**.
