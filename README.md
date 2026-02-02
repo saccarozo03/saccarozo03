@@ -54,3 +54,11 @@ My main interests include:
 ---
 
 ⭐ Always interested in building reliable **Embedded AI & Computer Vision** systems.
+## ⏱ Auto Updates
+Last Updated: <!--LAST_UPDATED-->2026-01-01<!--/LAST_UPDATED-->
+
+## 🆕 Recent Repositories
+<!--RECENT_REPOS_START-->
+(Updating...)
+<!--RECENT_REPOS_END-->
+
