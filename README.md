@@ -50,13 +50,7 @@ My main interests include:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saccarozo03" height="150"/>
-</p>
-
----
 
 ⭐ Always interested in building reliable **Embedded AI & Computer Vision** systems.
 
