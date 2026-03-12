@@ -17,9 +17,11 @@ RECENT_END = "<!--RECENT_REPOS_END-->"
 QUOTE_START = "<!--DAILY_QUOTE_START-->"
 QUOTE_END = "<!--DAILY_QUOTE_END-->"
 
+
 def replace_between(text: str, start: str, end: str, new_content: str) -> str:
     pattern = re.compile(rf"({re.escape(start)})(.*?)(\s*{re.escape(end)})", re.DOTALL)
     return pattern.sub(rf"\1{new_content}\3", text)
+
 
 def fetch_recent_repos(username: str, limit: int):
     url = f"https://api.github.com/users/{username}/repos"
@@ -36,6 +38,7 @@ def fetch_recent_repos(username: str, limit: int):
     repos = [repo for repo in r.json() if not repo.get("fork")]
     return repos[:limit]
 
+
 def build_recent_repos_block(repos):
     lines = []
     for repo in repos:
@@ -45,16 +48,32 @@ def build_recent_repos_block(repos):
         lang = repo.get("language") or ""
         stars = repo.get("stargazers_count", 0)
 
-        lines.append(f"- **[{name}]({url})** — {desc}  \n  _{lang} • ★ {stars}_")
+        lines.append(f"- **[{name}]({url})** — {desc}  \n  _{lang} · ★ {stars}_")
 
     return "\n" + "\n".join(lines) + "\n"
 
+
 def fetch_daily_quote():
-    url = "https://api.quotable.io/random"
-    r = requests.get(url, timeout=10)
-    r.raise_for_status()
-    data = r.json()
-    return f"“{data['content']}” — *{data['author']}*"
+    """Fetch a random quote from zenquotes.io (free, no auth required)."""
+    try:
+        r = requests.get("https://zenquotes.io/api/random", timeout=10)
+        r.raise_for_status()
+        data = r.json()[0]
+        return f'> *"{data["q"]}"*\n> — **{data["a"]}**'
+    except Exception:
+        pass
+
+    # Fallback: quotable.io mirror
+    try:
+        r = requests.get("https://api.quotable.io/random", timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        return f'> *"{data["content"]}"*\n> — **{data["author"]}**'
+    except Exception:
+        pass
+
+    return '> *"Build systems that outlast the hype."*\n> — **Unknown**'
+
 
 def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -77,6 +96,9 @@ def main():
     # Save README
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme)
+
+    print(f"README updated: {today}")
+
 
 if __name__ == "__main__":
     main()

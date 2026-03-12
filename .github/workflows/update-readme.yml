@@ -2,8 +2,8 @@ name: Update README (Auto)
 
 on:
   schedule:
-    - cron: "0 1 * * *" # Chạy lúc 1:00 AM hàng ngày
-  workflow_dispatch:     # Cho phép chạy thủ công
+    - cron: "0 1 * * *"  # 1:00 AM UTC hằng ngày
+  workflow_dispatch:      # Cho phép chạy thủ công
 
 permissions:
   contents: write
@@ -16,13 +16,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Quan trọng để git pull/rebase không bị lỗi
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: 'pip' # Tự động cache dependencies để chạy nhanh hơn
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -32,27 +33,19 @@ jobs:
       - name: Run README updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python "scripts/update_readme.py"
+        run: python scripts/update_readme.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git checkout -B "main"
-          git pull --rebase origin "main"
-          
-          git add "README.md"
-          
-          # Kiểm tra xem có thay đổi không trước khi commit
+          git add README.md
+
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit."
             exit 0
           fi
-          
-          git commit -m "chore: auto-update README"
-          
-          # Sử dụng cơ chế retry nếu bị xung đột (conflict)
-          git pull --rebase origin "main"
-          git push origin "main"
+
+          git commit -m "chore: auto-update README [skip ci]"
+          git push origin main
