@@ -50,11 +50,36 @@ def build_recent_repos_block(repos):
     return "\n" + "\n".join(lines) + "\n"
 
 def fetch_daily_quote():
-    url = "https://api.quotable.io/random"
-    r = requests.get(url, timeout=10)
-    r.raise_for_status()
-    data = r.json()
-    return f"“{data['content']}” — *{data['author']}*"
+    apis = [
+        (“https://api.quotable.io/random”, lambda d: (d[“content”], d[“author”])),
+        (“https://zenquotes.io/api/random”, lambda d: (d[0][“q”], d[0][“a”])),
+    ]
+    for url, parse in apis:
+        try:
+            r = requests.get(url, timeout=10)
+            r.raise_for_status()
+            content, author = parse(r.json())
+            return content, author
+        except Exception:
+            continue
+    return “Keep building, keep learning.”, “Unknown”
+
+
+def build_quote_block(content: str, author: str) -> str:
+    return (
+        “\n”
+        '<div align=”center”>\n'
+        “<table><tr><td align=\”center\” width=\”680\”>\n”
+        “<br/>\n”
+        '<img src=”https://img.shields.io/badge/Quote%20of%20the%20Day-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff” />'
+        “<br/><br/>\n”
+        f”<i>❝ {content} ❞</i>\n”
+        “<br/><br/>\n”
+        f”<b>— {author}</b>\n”
+        “<br/><br/>\n”
+        “</td></tr></table>\n”
+        “</div>\n”
+    )
 
 def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -70,8 +95,8 @@ def main():
     readme = replace_between(readme, RECENT_START, RECENT_END, recent_block)
 
     # Update daily quote
-    quote = fetch_daily_quote()
-    quote_block = "\n" + quote + "\n"
+    content, author = fetch_daily_quote()
+    quote_block = build_quote_block(content, author)
     readme = replace_between(readme, QUOTE_START, QUOTE_END, quote_block)
 
     # Save README
