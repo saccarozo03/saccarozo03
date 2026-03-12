@@ -39,6 +39,7 @@
 </div>
 
 
+
 <!--DAILY_QUOTE_END-->
 
 ---
@@ -101,14 +102,15 @@ I build pipelines from camera → AI → output on **Raspberry Pi** and **RockPi
 <!--RECENT_REPOS_START-->
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
-- **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** —   
+- **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
-- **[camera_server](https://github.com/saccarozo03/camera_server)** —   
+- **[camera_server](https://github.com/saccarozo03/camera_server)** — Hệ thống quay lỗi video di chuyển của AGV   
   _Python • ★ 1_
 - **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
   _Python • ★ 1_
+
 
 
 
