@@ -75,7 +75,7 @@ I build real-world pipelines that run **fast, lean, and reliable** — from raw 
 </div>
 
 **AI / CV:** YOLO • PaddleOCR • OpenCV • PyTorch
-**Embedded:** Raspberry Pi • RockPi • ESP32
+**Embedded:** Raspberry Pi • RockPi • Beagle Bone Black
 **System:** Linux • systemd • Networking • Git
 
 ---
