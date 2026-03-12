@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+AI+at+the+Edge+%F0%9F%9A%80;Embedded+Linux+Engineer+%F0%9F%90%A7;Computer+Vision+%2B+YOLO+%2B+OCR;Raspberry+Pi+%2F+RockPi+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+AI+at+the+Edge+%F0%9F%9A%80;Embedded+Linux+Engineer+%F0%9F%90%A7;Computer+Vision;SBC+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
