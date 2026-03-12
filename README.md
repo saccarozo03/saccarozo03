@@ -14,7 +14,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Status-Debugging%20since%201994-red?style=flat-square)
+![](https://img.shields.io/badge/Status-Debugging%20since%202003-red?style=flat-square)
 ![](https://img.shields.io/badge/Coffee%20Consumed-%E2%88%9E%20cups-brown?style=flat-square&logo=buymeacoffee&logoColor=white)
 ![](https://img.shields.io/badge/Bugs%20Fixed-1-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/Bugs%20Created-47-red?style=flat-square)
