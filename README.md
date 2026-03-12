@@ -23,10 +23,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/Quote%20of%20the%20Day-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>✨ Updating...</i>
+<i>❝ Keep building, keep learning. ❞</i>
+<br/><br/>
+<b>— Unknown</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 <!--DAILY_QUOTE_END-->
 
 ---
@@ -83,16 +86,17 @@ I build real-world pipelines that run **fast, lean, and reliable** — from raw 
 ## 🆕 Recent Repositories
 
 <!--RECENT_REPOS_START-->
-- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.
+- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
-- **[camera_server](https://github.com/saccarozo03/camera_server)** —
-  _Python • ★ 0_
-- **[latex](https://github.com/saccarozo03/latex)** —
-  _ • ★ 0_
-- **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe
-  _Python • ★ 0_
-- **[my-cv](https://github.com/saccarozo03/my-cv)** —
-  _HTML • ★ 0_
+- **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
+  _HTML • ★ 1_
+- **[camera_server](https://github.com/saccarozo03/camera_server)** —   
+  _Python • ★ 1_
+- **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
+  _Python • ★ 1_
+- **[latex](https://github.com/saccarozo03/latex)** —   
+  _Jupyter Notebook • ★ 0_
+
 
 <!--RECENT_REPOS_END-->
 
@@ -100,7 +104,7 @@ I build real-world pipelines that run **fast, lean, and reliable** — from raw 
 
 ## ⏱ Auto Updates
 
-Last Updated: <!--LAST_UPDATED-->2026-03-12<!--/LAST_UPDATED-->
+Last Updated: P26-03-12<!--/LAST_UPDATED-->
 
 ---
 
