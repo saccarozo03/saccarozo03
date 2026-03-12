@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Works+on+my+machine+%F0%9F%A4%B7;git+commit+-m+%22fix%22+(lần+thứ+47)+%F0%9F%98%AD;Stack+Overflow+Engineer+%F0%9F%A5%87;Turning+%E2%98%95+into+bugs+since+2020;It%27s+not+a+bug%2C+it%27s+a+feature+%F0%9F%90%9B;Rubber+duck+debugger+%F0%9F%A6%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Works+on+my+machine+%F0%9F%A4%B7;git+commit+-m+%22fix%22+(47th+time)+%F0%9F%98%AD;Powered+by+caffeine+%26+Stack+Overflow+%E2%98%95;It%27s+not+a+bug%2C+it%27s+a+feature+%F0%9F%90%9B;My+rubber+duck+knows+more+than+me+%F0%9F%A6%86;sudo+make+it+work+please+%F0%9F%99%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,25 +12,28 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saccarozo03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BB%A9c-nguy%E1%BB%85n-133104227/)
 
-![](https://img.shields.io/badge/Trạng%20thái-Đang%20debug%20lần%20thứ%2099-red?style=flat-square)
-![](https://img.shields.io/badge/Coffee%20consumed-∞%20cups-brown?style=flat-square&logo=buymeacoffee)
-![](https://img.shields.io/badge/Bugs%20fixed-1-green?style=flat-square)
-![](https://img.shields.io/badge/Bugs%20created-47-red?style=flat-square)
+<br/>
+
+![](https://img.shields.io/badge/Status-Debugging%20since%201994-red?style=flat-square)
+![](https://img.shields.io/badge/Coffee%20Consumed-%E2%88%9E%20cups-brown?style=flat-square&logo=buymeacoffee&logoColor=white)
+![](https://img.shields.io/badge/Bugs%20Fixed-1-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Bugs%20Created-47-red?style=flat-square)
+![](https://img.shields.io/badge/Stack%20Overflow%20Tabs%20Open-12-orange?style=flat-square&logo=stackoverflow&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Câu Bựa Trong Ngày
+## 💡 Daily Wisdom (That No One Asked For)
 
 <!--DAILY_QUOTE_START-->
 <div align="center">
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ There are only 10 types of people: those who understand binary and those who don't. ❞</i>
+<i>❝ Code never lies, comments sometimes do. ❞</i>
 <br/><br/>
-<b>— Binary Philosopher</b>
+<b>— Ron Jeffries</b>
 <br/><br/>
 </td></tr></table>
 </div>
@@ -40,37 +43,38 @@
 
 ---
 
-## 🧑‍💻 Tôi Là Ai?
+## 🧑‍💻 Who Am I?
 
-> Tôi là kỹ sư Embedded Linux & Computer Vision. Hay nói cách khác: tôi bắt **AI chạy trên phần cứng nghèo khổ** và hy vọng nó không bốc khói.
+> Embedded Linux & Computer Vision engineer. In other words: I force **AI to run on hardware so weak it should be in a museum**, and pray it doesn't catch fire.
 
-Tôi xây dựng pipeline từ camera → AI → output trên **Raspberry Pi** và **RockPi** — những chiếc máy tính mà RAM còn ít hơn số tab Chrome bạn đang mở.
+I build pipelines from camera → AI → output on **Raspberry Pi** and **RockPi** — devices with less RAM than the number of Chrome tabs you currently have open.
 
 ```
-📍 Vòng lặp hàng ngày của tôi
-├── 🌅  Sáng: "Hôm nay code sẽ chạy ngon"
-├── ☕  9h:   Uống cà phê, mở IDE
-├── 🐛  10h:  Tìm bug (do mình tạo ra hôm qua)
-├── 🔍  14h:  Stack Overflow lần thứ 12
-├── 😤  17h:  "Sao cái này lại chạy được??"
-└── 🌙  23h:  git commit -m "fix" và ngủ
+📍 My Daily Routine
+├── 🌅  8AM:  "Today my code will work perfectly"
+├── ☕  9AM:  Open IDE, make coffee
+├── 🐛  10AM: Find yesterday's bug (spoiler: it was me)
+├── 🔍  2PM:  Stack Overflow visit #12 of the day
+├── 😤  5PM:  "WHY IS THIS WORKING NOW??"
+├── 🚀  6PM:  Deploy to production (YOLO)
+└── 🔥  6:01PM: Watch everything burn
 ```
 
 ---
 
-## ⚙️ Tôi Làm Gì (Theo Lý Thuyết)
+## ⚙️ What I Do (In Theory)
 
-| Domain | Thực Tế |
+| Domain | Reality |
 |---|---|
-| 🖥️ **Embedded Linux** | Viết systemd service, reboot 3 lần, cuối cùng hoạt động, không biết tại sao |
-| 🤖 **Edge AI** | Nhét model 200MB vào thiết bị 512MB RAM rồi cầu nguyện |
-| 📸 **Computer Vision** | Dạy máy tính nhìn. Máy tính vẫn mù hơn tôi lúc không có kính |
-| 🌐 **Backend** | FastAPI vì tôi lười đọc tài liệu Django |
-| 🏭 **Use Cases** | Camera nhận diện biển số xe... và lá cây, con mèo, bóng tối |
+| 🖥️ **Embedded Linux** | Write systemd service, reboot 3 times, it works, no idea why, ship it |
+| 🤖 **Edge AI** | Stuff a 200MB model into 512MB RAM then meditate |
+| 📸 **Computer Vision** | Teach machines to see. They're still worse than me without glasses |
+| 🌐 **Backend** | FastAPI because I'm too lazy to read Django docs |
+| 🏭 **Use Cases** | License plate detection that also detects leaves, cats, and existential dread |
 
 ---
 
-## 🛠️ Vũ Khí Bí Mật
+## 🛠️ My Weapons of Mass Destruction
 
 <div align="center">
 
@@ -88,11 +92,11 @@ Tôi xây dựng pipeline từ camera → AI → output trên **Raspberry Pi** v
 
 **AI / CV:** YOLO • PaddleOCR • OpenCV • PyTorch
 **Embedded:** Raspberry Pi • RockPi • Beagle Bone Black
-**Bí kíp:** Google • Stack Overflow • Cầu nguyện
+**Secret weapons:** Google • Stack Overflow • Ctrl+Z • Pure luck
 
 ---
 
-## 🆕 Repo Gần Đây
+## 🆕 Recent Repositories
 
 <!--RECENT_REPOS_START-->
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
@@ -112,11 +116,11 @@ Tôi xây dựng pipeline từ camera → AI → output trên **Raspberry Pi** v
 
 ---
 
-## ⏱ Cập Nhật Tự Động
+## ⏱ Auto Updates
 
 Last Updated: P26-03-12<!--/LAST_UPDATED-->
 
-*(Tự động cập nhật hàng ngày lúc 1AM — vì bot không cần ngủ, khác tôi)*
+*(Auto-updated daily at 1AM — because bots don't need sleep, unlike me)*
 
 ---
 
@@ -124,6 +128,6 @@ Last Updated: P26-03-12<!--/LAST_UPDATED-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=60&section=footer"/>
 
-⭐ **"It works on my machine"** — Nguyễn Tiến Đức, mọi ngày trong tuần
+⭐ **"It works on my machine"** — Nguyen Tien Duc, every single day
 
 </div>
