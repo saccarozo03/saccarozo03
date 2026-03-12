@@ -23,12 +23,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/Quote%20of%20the%20Day-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Keep building, keep learning. ❞</i>
+<i>❝ Confidence is what you have before you understand the problem. ❞</i>
 <br/><br/>
-<b>— Unknown</b>
+<b>— Woody Allen</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 <!--DAILY_QUOTE_END-->
 
@@ -96,6 +97,7 @@ I build real-world pipelines that run **fast, lean, and reliable** — from raw 
   _Python • ★ 1_
 - **[latex](https://github.com/saccarozo03/latex)** —   
   _Jupyter Notebook • ★ 0_
+
 
 
 <!--RECENT_REPOS_END-->
