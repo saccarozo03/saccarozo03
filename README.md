@@ -35,6 +35,7 @@
 </td></tr></table>
 </div>
 
+
 <!--DAILY_QUOTE_END-->
 
 ---
@@ -104,6 +105,7 @@ Tôi xây dựng pipeline từ camera → AI → output trên **Raspberry Pi** v
   _Python • ★ 1_
 - **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
   _Python • ★ 1_
+
 
 
 <!--RECENT_REPOS_END-->
