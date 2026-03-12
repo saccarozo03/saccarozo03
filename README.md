@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=140&text=Duc%20Nguyen&fontSize=55&fontColor=e2e8f0&fontAlignY=50&desc=Embedded%20Linux%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=72&descColor=7eb3ff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=140&text=Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20%C4%90%E1%BB%A9c&fontSize=50&fontColor=e2e8f0&fontAlignY=50&desc=Embedded%20Linux%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=72&descColor=7eb3ff" />
 
 <br/>
 
