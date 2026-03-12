@@ -47,20 +47,34 @@ def build_recent_repos_block(repos):
         lines.append(f"- **[{name}]({url})** — {desc}  \n  _{lang} • ★ {stars}_")
     return "\n" + "\n".join(lines) + "\n"
 
+FUNNY_QUOTES = [
+    ("It works on my machine.", "Every Developer Ever"),
+    ("99 little bugs in the code. Take one down, patch it around... 127 little bugs in the code.", "The Developer's Anthem"),
+    ("I don't always test my code, but when I do, I do it in production.", "Senior Dev Energy"),
+    ("Debugging is like being the detective in a crime movie where you are also the murderer.", "Filipe Fortes"),
+    ("A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders 99999 beers. Orders -1 beers. Orders NULL beers. The bar bursts into flames.", "Anonymous QA"),
+    ("It's not a bug — it's an undocumented feature.", "Every Programmer"),
+    ("Why do Java developers wear glasses? Because they don't C#.", "Dad Joke Dept."),
+    ("There are only 10 types of people: those who understand binary and those who don't.", "Binary Philosopher"),
+    ("Weeks of coding can save you hours of planning.", "Anonymous"),
+    ("Always code as if the guy maintaining your code is a violent psychopath who knows where you live.", "John Woods"),
+    ("Talk is cheap. Show me the code.", "Linus Torvalds"),
+    ("The best thing about a boolean is even if you are wrong, you are only off by a bit.", "Anonymous"),
+    ("Code never lies, comments sometimes do.", "Ron Jeffries"),
+    ("Programming: the art of telling another human what you want the computer to do.", "Donald Knuth"),
+    ("If debugging is removing bugs, then programming must be putting them in.", "Edsger Dijkstra"),
+    ("Tôi không fix bug. Tôi tạo ra feature mới gọi là 'unexpected behavior'.", "Tôi - 2 giờ sáng"),
+    ("Stack Overflow is down. I have no idea what to do.", "Every Developer, 2013"),
+    ("My code doesn't work. I have no idea why. My code works. I have no idea why.", "Anonymous"),
+    ("The DevOps engineer said: 'Works on my container.'", "Modern Developer"),
+    ("Với đủ coffee và Stack Overflow, mọi bug đều có thể được copy-paste ra ngoài.", "Triết Học Dev"),
+]
+
+
 def fetch_daily_quote():
-    apis = [
-        ("https://api.quotable.io/random", lambda d: (d["content"], d["author"])),
-        ("https://zenquotes.io/api/random", lambda d: (d[0]["q"], d[0]["a"])),
-    ]
-    for url, parse in apis:
-        try:
-            r = requests.get(url, timeout=10)
-            r.raise_for_status()
-            content, author = parse(r.json())
-            return content, author
-        except Exception:
-            continue
-    return "Keep building, keep learning.", "Unknown"
+    today = datetime.now(timezone.utc)
+    index = (today.year * 366 + today.timetuple().tm_yday) % len(FUNNY_QUOTES)
+    return FUNNY_QUOTES[index]
 
 def build_quote_block(content, author):
     return (
@@ -68,7 +82,7 @@ def build_quote_block(content, author):
         '<div align="center">\n'
         '<table><tr><td align="center" width="680">\n'
         "<br/>\n"
-        '<img src="https://img.shields.io/badge/Quote%20of%20the%20Day-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" />'
+        '<img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" />'
         "<br/><br/>\n"
         f"<i>\u275d {content} \u275e</i>\n"
         "<br/><br/>\n"
