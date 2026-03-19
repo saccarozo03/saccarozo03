@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Given enough coffee and Stack Overflow, any bug can be copy-pasted away. ❞</i>
+<i>❝ Dear past me: the bug is on line 47. You're welcome. Dear future me: I'm sorry. ❞</i>
 <br/><br/>
-<b>— Dev Philosophy</b>
+<b>— Every Developer</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -116,6 +117,7 @@ I build pipelines from camera → AI → output on **Raspberry Pi** and **RockPi
   _Python • ★ 1_
 - **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
   _Python • ★ 1_
+
 
 
 
