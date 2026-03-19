@@ -67,7 +67,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 | 🤖 **Android Kernel** | Write kernel modules in C, cause panics, learn things the hard way |
 | 🚗 **Android Automotive (AAOS)** | Exploring VHAL, convinced cars are just Raspberry Pis with seatbelts |
 | 🖥️ **Embedded Linux** | Write systemd service, reboot 3 times, it works, no idea why, ship it |
-| 📱 **Android App Dev** | Java/Kotlin — because someone has to test if the HAL actually works |
+| 📱 **Android App Dev** | Kotlin — because someone has to test if the HAL actually works |
 | 📸 **Computer Vision** | Teach machines to see. They're still worse than me without glasses |
 
 ---
