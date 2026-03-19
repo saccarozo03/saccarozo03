@@ -88,7 +88,6 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 
 ![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB%20%2F%20Fastboot-000000?style=flat-square&logo=android&logoColor=3DDC84)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **AI / CV**
