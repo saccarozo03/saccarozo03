@@ -100,7 +100,6 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 **Toolchain**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)
 
 </div>
 
