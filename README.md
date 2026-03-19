@@ -24,7 +24,7 @@
 
 ---
 
-## 💡 Daily Wisdom (That No One Asked For)
+##  Daily Wisdom (That No One Asked For)
 
 <!--DAILY_QUOTE_START-->
 <div align="center">
@@ -41,38 +41,38 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+##  Who Am I?
 
 > Embedded Linux & Android Kernel developer. In other words: I **build AOSP from source** just to change one line, flash it onto a board, and watch it bootloop — then do it again with slightly more confidence.
 
 I work across the full embedded Android stack — from Linux kernel drivers up through AOSP, Android Automotive OS, and even a bit of app-level Java/Kotlin when I feel like touching grass.
 
 ```
-📍 My Daily Routine
-├── 🌅  8AM:  "Today my AOSP build will finish on the first try"
-├── ☕  9AM:  repo sync && make -j$(nproc), brew coffee
-├── 🐛  10AM: Build error. Missing dependency. Obviously.
-├── 🔍  2PM:  Stack Overflow + AOSP Gerrit + Google groups spiral
-├── 😤  5PM:  "WHY DID ADDING A PRINTK FIX IT??"
-├── 🚀  6PM:  adb reboot && flash && pray
-└── 🔥  6:01PM: Bootloop. Beautiful, educational bootloop.
+ My Daily Routine
+├──   8AM:  "Today my AOSP build will finish on the first try"
+├──   9AM:  repo sync && make -j$(nproc), brew coffee
+├──   10AM: Build error. Missing dependency. Obviously.
+├──   2PM:  Stack Overflow + AOSP Gerrit + Google groups spiral
+├──   5PM:  "WHY DID ADDING A PRINTK FIX IT??"
+├──   6PM:  adb reboot && flash && pray
+└──   6:01PM: Bootloop. Beautiful, educational bootloop.
 ```
 
 ---
 
-## ⚙️ What I Do (In Theory)
+##  What I Do (In Theory)
 
 | Domain | Reality |
 |---|---|
-| 🤖 **Android Kernel** | Write kernel modules in C, cause panics, learn things the hard way |
-| 🚗 **Android Automotive (AAOS)** | Exploring VHAL, convinced cars are just Raspberry Pis with seatbelts |
-| 🖥️ **Embedded Linux** | Write systemd service, reboot 3 times, it works, no idea why, ship it |
-| 📱 **Android App Dev** | Kotlin — because someone has to test if the HAL actually works |
-| 📸 **Computer Vision** | Teach machines to see. They're still worse than me without glasses |
+|  **Android Kernel** | Write kernel modules in C, cause panics, learn things the hard way |
+|  **Android Automotive (AAOS)** | Exploring VHAL, convinced cars are just Raspberry Pis with seatbelts |
+|  **Embedded Linux** | Write systemd service, reboot 3 times, it works, no idea why, ship it |
+|  **Android App Dev** | Kotlin — because someone has to test if the HAL actually works |
+|  **Computer Vision** | Teach machines to see. They're still worse than me without glasses |
 
 ---
 
-## 🛠️ My Weapons of Mass Destruction
+##  My Weapons of Mass Destruction
 
 <div align="center">
 
@@ -110,7 +110,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 
 ---
 
-## 🆕 Recent Repositories
+##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
@@ -127,7 +127,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 
 ---
 
-## ⏱ Auto Updates
+##  Auto Updates
 
 Last Updated: P26-03-12<!--/LAST_UPDATED-->
 
@@ -139,6 +139,6 @@ Last Updated: P26-03-12<!--/LAST_UPDATED-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=60&section=footer"/>
 
-⭐ **"It boots. I don't know why. Shipping it."** — Nguyen Tien Duc, every single day
+ **"It boots. I don't know why. Shipping it."** — Nguyen Tien Duc, every single day
 
 </div>
