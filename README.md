@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Dear past me: the bug is on line 47. You're welcome. Dear future me: I'm sorry. ❞</i>
+<i>❝ Documentation is like a love letter to your future self. I never write love letters. ❞</i>
 <br/><br/>
-<b>— Every Developer</b>
+<b>— Lazy Dev</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 <!--DAILY_QUOTE_END-->
 
 ---
@@ -113,16 +114,17 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 ##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
+- **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
+  _ • ★ 0_
+- **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
+  _ • ★ 0_
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
 - **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
-- **[camera_server](https://github.com/saccarozo03/camera_server)** — Hệ thống quay lỗi video di chuyển của AGV   
-  _Python • ★ 1_
-- **[ALPR](https://github.com/saccarozo03/ALPR)** — Mô hình nhận diện biển số xe   
-  _Python • ★ 1_
+
 <!--RECENT_REPOS_END-->
 
 ---
