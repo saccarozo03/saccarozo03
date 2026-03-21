@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Documentation is like a love letter to your future self. I never write love letters. ❞</i>
+<i>❝ I wrote clean code once. Then I added 'just one quick fix'. ❞</i>
 <br/><br/>
-<b>— Lazy Dev</b>
+<b>— Famous Last Words</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 <!--DAILY_QUOTE_END-->
 
@@ -114,16 +115,17 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 ##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
+- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
+  _Python • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
 - **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
   _ • ★ 0_
-- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
-  _Python • ★ 0_
 - **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
+
 
 <!--RECENT_REPOS_END-->
 
