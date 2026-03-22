@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ I wrote clean code once. Then I added 'just one quick fix'. ❞</i>
+<i>❝ The code works. Nobody knows why. Do not touch it. Ever. ❞</i>
 <br/><br/>
-<b>— Famous Last Words</b>
+<b>— Production Comment #1</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 <!--DAILY_QUOTE_END-->
@@ -125,6 +126,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
+
 
 
 <!--RECENT_REPOS_END-->
