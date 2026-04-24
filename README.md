@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders 99999 beers. Orders -1 beers. Orders NULL beers. The bar bursts into flames. ❞</i>
+<i>❝ It's not a bug — it's an undocumented feature. ❞</i>
 <br/><br/>
-<b>— Anonymous QA</b>
+<b>— Every Programmer, Ever</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -158,6 +159,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
+
 
 
 
