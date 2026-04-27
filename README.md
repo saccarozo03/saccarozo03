@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ There are only 10 types of people: those who understand binary and those who don't. ❞</i>
+<i>❝ Weeks of coding can save you hours of planning. ❞</i>
 <br/><br/>
-<b>— Binary Philosopher</b>
+<b>— Anonymous</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -161,6 +162,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _Python • ★ 0_
 - **[saccarozo03.github.io](https://github.com/saccarozo03/saccarozo03.github.io)** — Blog học lập trình C   
   _HTML • ★ 1_
+
 
 
 
