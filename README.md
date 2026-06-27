@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Given enough coffee and Stack Overflow, any bug can be copy-pasted away. ❞</i>
+<i>❝ Dear past me: the bug is on line 47. You're welcome. Dear future me: I'm sorry. ❞</i>
 <br/><br/>
-<b>— Dev Philosophy</b>
+<b>— Every Developer</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -212,16 +213,17 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 ##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
-- **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
-  _Kotlin • ★ 0_
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
+- **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
+  _Kotlin • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
 - **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
   _ • ★ 0_
 - **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
+
 
 
 
