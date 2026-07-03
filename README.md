@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ sudo make me a sandwich. ERROR: permission denied. sudo sudo make me a sandwich. ❞</i>
+<i>❝ It works on my machine. ❞</i>
 <br/><br/>
-<b>— Linux Wisdom</b>
+<b>— Every Developer Ever</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -228,6 +229,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _ • ★ 0_
 - **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
+
 
 
 
