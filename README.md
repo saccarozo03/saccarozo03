@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ Talk is cheap. Show me the code. ❞</i>
+<i>❝ The best thing about a boolean is even if you are wrong, you are only off by a bit. ❞</i>
 <br/><br/>
-<b>— Linus Torvalds</b>
+<b>— Anonymous</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -238,6 +239,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _ • ★ 0_
 - **[control_car_by_hand_gesture](https://github.com/saccarozo03/control_car_by_hand_gesture)** — Điều khiển lái xe thông qua cử chỉ tay   
   _Python • ★ 0_
+
 
 
 
