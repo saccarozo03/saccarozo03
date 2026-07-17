@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ If debugging is removing bugs, then programming must be putting them in. ❞</i>
+<i>❝ Stack Overflow is down. I have no idea what to do. ❞</i>
 <br/><br/>
-<b>— Edsger Dijkstra</b>
+<b>— Every Developer, 2013</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -231,16 +232,17 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 ##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
-- **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
-  _Kotlin • ★ 0_
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
+- **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
+  _Kotlin • ★ 0_
 - **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
   _Kotlin • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
 - **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
   _ • ★ 0_
+
 
 
 
