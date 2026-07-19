@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ My code doesn't work. I have no idea why. My code works. I have no idea why. ❞</i>
+<i>❝ The DevOps engineer said: 'Works on my container.' ❞</i>
 <br/><br/>
-<b>— Anonymous</b>
+<b>— Modern Developer</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -233,16 +234,17 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
 ##  Recent Repositories
 
 <!--RECENT_REPOS_START-->
-- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
-  _Python • ★ 0_
 - **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
   _Kotlin • ★ 0_
+- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
+  _Python • ★ 0_
 - **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
   _Kotlin • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
 - **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
   _ • ★ 0_
+
 
 
 
