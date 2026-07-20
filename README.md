@@ -31,12 +31,13 @@
 <table><tr><td align="center" width="680">
 <br/>
 <img src="https://img.shields.io/badge/C%C3%A2u%20B%E1%BB%B1a%20H%C3%B4m%20Nay-1a1a2e?style=flat-square&logo=bookstack&logoColor=7eb3ff" /><br/><br/>
-<i>❝ The DevOps engineer said: 'Works on my container.' ❞</i>
+<i>❝ I don't fix bugs. I create new features called 'unexpected behavior'. ❞</i>
 <br/><br/>
-<b>— Modern Developer</b>
+<b>— Me, 2AM</b>
 <br/><br/>
 </td></tr></table>
 </div>
+
 
 
 
@@ -244,6 +245,7 @@ I work across the full embedded Android stack — from Linux kernel drivers up t
   _ • ★ 0_
 - **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
   _ • ★ 0_
+
 
 
 
