@@ -10,9 +10,24 @@
 
 Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Automotive OS (VHAL), Kotlin app.
 
-**Stack** — C/C++ · Linux Kernel · Buildroot · AOSP · ADB/Fastboot · AAOS · Kotlin · Python · OpenCV
+<div align="center">
 
-**Boards** — Raspberry Pi · BeagleBone · ESP32 · S32K144
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Qt](https://img.shields.io/badge/Buildroot-2C3E50?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+
+</div>
 
 ### Repos
 
