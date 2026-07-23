@@ -65,14 +65,21 @@ Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Autom
 ### Repos
 
 <!--RECENT_REPOS_START-->
-- [LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive) — AAOS launcher, Kotlin
-- [android-kernel](https://github.com/saccarozo03/android-kernel) — AAOS build
-- [linux-kernel](https://github.com/saccarozo03/linux-kernel) — Embedded Linux notes
-- [FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4) — Kotlin
+- **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
+  _Python • ★ 0_
+- **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
+  _Kotlin • ★ 0_
+- **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
+  _Kotlin • ★ 0_
+- **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
+  _ • ★ 0_
+- **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
+  _ • ★ 0_
+
 <!--RECENT_REPOS_END-->
 
 ---
 
 <div align="center">
-<sub><i>"It boots. I don't know why. Shipping it."</i> · updated <!--LAST_UPDATED-->P26-03-12<!--/LAST_UPDATED--></sub>
+<sub><i>"It boots. I don't know why. Shipping it."</i> · updated P26-07-23<!--/LAST_UPDATED--></sub>
 </div>
