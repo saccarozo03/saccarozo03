@@ -67,14 +67,15 @@ Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Autom
 <!--RECENT_REPOS_START-->
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
+- **[HealthTracker](https://github.com/saccarozo03/HealthTracker)** —   
+  _Kotlin • ★ 0_
 - **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
   _Kotlin • ★ 0_
 - **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
   _Kotlin • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
-- **[android-kernel](https://github.com/saccarozo03/android-kernel)** — Build android AAOS  
-  _ • ★ 0_
+
 
 
 
