@@ -69,12 +69,13 @@ Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Autom
   _Python • ★ 0_
 - **[HealthTracker](https://github.com/saccarozo03/HealthTracker)** —   
   _Kotlin • ★ 0_
-- **[LauncherAutomotive](https://github.com/saccarozo03/LauncherAutomotive)** —   
+- **[CANtrolX](https://github.com/saccarozo03/CANtrolX)** —   
   _Kotlin • ★ 0_
 - **[FilmBooking_Nhom4](https://github.com/saccarozo03/FilmBooking_Nhom4)** — Dự án nhóm 4  
   _Kotlin • ★ 0_
 - **[linux-kernel](https://github.com/saccarozo03/linux-kernel)** — Học về linux embedded system   
   _ • ★ 0_
+
 
 
 
