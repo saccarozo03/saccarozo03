@@ -65,6 +65,8 @@ Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Autom
 ### Repos
 
 <!--RECENT_REPOS_START-->
+- **[pic-ec-ec](https://github.com/saccarozo03/pic-ec-ec)** —   
+  _HTML • ★ 0_
 - **[saccarozo03](https://github.com/saccarozo03/saccarozo03)** — Config files for my GitHub profile.  
   _Python • ★ 0_
 - **[IntentAndIntentFilter](https://github.com/saccarozo03/IntentAndIntentFilter)** —   
@@ -73,8 +75,7 @@ Embedded Linux & Android Kernel developer — kernel driver, AOSP, Android Autom
   _C++ • ★ 0_
 - **[HealthTracker](https://github.com/saccarozo03/HealthTracker)** —   
   _Kotlin • ★ 0_
-- **[CANtrolX-AutomotiveLauncher](https://github.com/saccarozo03/CANtrolX-AutomotiveLauncher)** —   
-  _Kotlin • ★ 0_
+
 
 
 
